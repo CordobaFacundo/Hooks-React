@@ -27,7 +27,7 @@ export const App = () => {
       {/* <MemoHook /> */}
       {/* <CallbackHook /> */}
       {/* <Padre /> */}
-      <TodoApp />
+      {/* <TodoApp /> */}
     </>
   )
 }
